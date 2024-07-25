@@ -4,11 +4,11 @@ Table of Contents
 
 * Installation
 * Usage
-*Results
+* Results
 
 
 
-1.Installation
+1.INSTALLATION
 
 clone the repository:
 
@@ -47,7 +47,9 @@ When prompted, input the name of the music track you want to search for.
 Enter the name of the music track: Let it be
 ```
 
-3. You can then view the results
+3.RESULTS
+
+You can then view the results
 
 Example
 
